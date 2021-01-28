@@ -1,0 +1,3 @@
+[submodule "jaeger-datasets"]
+	path = jaeger-datasets
+	url = git@github.com:Ashmita152/jaeger-datasets.git
